@@ -1,0 +1,13 @@
+{
+  "title": "Material demo",
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/demos/autocomplete/IntegrationAutosuggest.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react-autosuggest": "latest",
+    "react": "latest",
+    "prop-types": "latest",
+    "lodash": "latest",
+    "autosuggest-highlight": "latest",
+    "@material-ui/core": "latest"
+  }
+}
